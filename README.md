@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-现在就职于软通动力所做项目是华为商家联盟：https://bizconnect.huawei.com
+
 
 <!---
 PaulZhao1994/PaulZhao1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
